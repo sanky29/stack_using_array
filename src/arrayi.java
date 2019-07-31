@@ -5,7 +5,7 @@ public interface arrayi {
 	public Object pop();
 	
 	//make function for push
-	public void push(Object x);
+	public void push(Object x);//cgchg
 	
 	//make function to check emptiness of stack
 	public boolean isEmpty();
